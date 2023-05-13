@@ -6,4 +6,5 @@ Tecnhnologies used
    . spring data jpa
    . My SQl
    . bootstrap
+   . html
   
