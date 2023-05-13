@@ -1,2 +1,9 @@
-# Employee_List---spring-boot
-this is a repo for a spring boot project
+### Employee Mangment System
+## is a web application by using spring boot , user can make a list of empolyees details and make actions on the list
+Tecnhnologies used
+   . spring boot
+   . thymeleaf
+   . spring data jpa
+   . My SQl
+   . bootstrap
+  
